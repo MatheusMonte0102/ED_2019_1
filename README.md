@@ -11,7 +11,7 @@
 * Quanto tempo levou pra fazer a atividade
   * Foram aproximadamente 8 horas.
 
-# 02 - nome do trabalho
+# 02 - Queimando Árvores
 
 * O que você fez
   * fiz Fiz todo o trabalho.
@@ -23,7 +23,7 @@
   * Entender por completo como funciona uma função recursiva e a mexer com a função rand();
 * Quanto tempo levou pra fazer a atividade
   *Para ser completamente feita cerca de dois dias.
-# 03 - nome do trabalho
+# 03 - Labirinto
 
 * O que você fez
   * fiz aprimeira parte do labirinto, construir o caminho
