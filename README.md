@@ -26,7 +26,7 @@
 # 03 - Labirinto
 
 * O que você fez
-  * fiz aprimeira parte do labirinto, construir o caminho, e não consegui concluir a segunda parte que era fazer o caminho faltaram algumas logicas, ele faz o caminho, porém de forma imcompleta.
+  * fiz aprimeira parte do labirinto, construir o caminho, e não consegui concluir a segunda parte que era fazer o caminho faltaram algumas logicas, ele faz o caminho, porém de forma incompleta.
 * Com quem e como você fez
   * fiz Apartir do exemplo que o professor deu na aula eu desenvolvi e implementei minha propria logica, criando funções semelhantes.
 * O que aprendeu e sabe fazer
