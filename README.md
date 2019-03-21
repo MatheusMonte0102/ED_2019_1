@@ -34,4 +34,4 @@
 * O que tem dificuldade ainda
   * Entender o por que de receber argumetnos na função main.
 * Quanto tempo levou pra fazer a atividade
-  * Cerca de três dias e meio.
+  * De quando foi passado até hoje a tarde, porém nao conseguir fazer ele completamente.
