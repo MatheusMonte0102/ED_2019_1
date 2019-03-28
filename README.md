@@ -38,13 +38,13 @@
 # 04 - Fractais
 
 * O que você fez
- * Fiz a arvore do meu jeito mais dois fractais(o floco de neve e o circulo), estao todos rodando perfeitamente.
+  * Fiz a arvore do meu jeito mais dois fractais(o floco de neve e o circulo), estao todos rodando perfeitamente.
 * Com quem e como voce fez
- * A árvore eu fiz apartir do exemplo dado em sala, porém ultilizeialeatoriedade para definir o angulo dos galhos, o tamanho e a espessuara e busquei usar duas cores diferente, o marron que eu mesmo fiz e o verde. o floco de neve o Renato me ajudou com a lógica e tentei fazer sozinho, o circulo eu desenvolvi a lógica e implementei no código.
+  * A árvore eu fiz apartir do exemplo dado em sala, porém ultilizeialeatoriedade para definir o angulo dos galhos, o tamanho e a espessuara e busquei usar duas cores diferente, o marron que eu mesmo fiz e o verde. o floco de neve o Renato me ajudou com a lógica e tentei fazer sozinho, o circulo eu desenvolvi a lógica e implementei no código.
 * O que aprendeu e sabe fazer
- * Apartir de uma imagem eu consigo desenvolver a lógica e implementar o código, também aprendi sobre o "xpaint.h" e suas 
+  * Apartir de uma imagem eu consigo desenvolver a lógica e implementar o código, também aprendi sobre o "xpaint.h" e suas 
 funcionalidades
 * O que tem dificuldade ainda
- * Confesso que ainda nao entendo bem como funciona uma chamada recursiva, as vezes da um nó no cerebro,mas consigo impementar o código
+  * Confesso que ainda nao entendo bem como funciona uma chamada recursiva, as vezes da um nó no cerebro,mas consigo impementar o código
 *Quanto tempo levou para fazer a atividade
- *Cada imagem dessa levou de 3 a 4 dias para ficar pronta.
+  * Cada imagem dessa levou de 3 a 4 dias para ficar pronta.
