@@ -46,5 +46,5 @@
 funcionalidades
 * O que tem dificuldade ainda
   * Confesso que ainda nao entendo bem como funciona uma chamada recursiva, as vezes da um nó no cerebro,mas consigo impementar o código
-*Quanto tempo levou para fazer a atividade
+* Quanto tempo levou para fazer a atividade
   * Cada imagem dessa levou de 3 a 4 dias para ficar pronta.
