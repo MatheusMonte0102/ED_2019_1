@@ -48,3 +48,16 @@ funcionalidades
   * Confesso que ainda nao entendo bem como funciona uma chamada recursiva, as vezes da um nó no cerebro,mas consigo impementar o código
 * Quanto tempo levou para fazer a atividade
   * Cada imagem dessa levou de 3 a 4 dias para ficar pronta.
+  
+  # 06 - Algoritmos de ordenação
+  
+  * O que você fez
+    * Implementei os 3 algoritmos passados em sala, selection sort, bubble sort, insertion sort, tentei criar as imagens, algumas vezes da certo outras não dão.
+  * Com quem voce fez
+   * Assisti as video aulas e pesquisei algumas coisas extras na internet, fiz sozinho porém com ajuda do stack overflow.
+  * O que eu aprendi a fazer
+   * Aprendi a implementar os 3 algoritmos de ordenação, além de aprender um pouco sobre a biblioteca xvet.h, e também a usar defines
+  * O que eu ainda tenho dificuldades
+   * Tenho um pouco de dificuldade em entender insertion sort, a lógica de funcionamento dele.
+  * Quanto tempo levou para fazer a atividade
+   * Levei em torno de 3 dias para resolver os 3 algoritmos de ordenação
