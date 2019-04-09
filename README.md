@@ -52,9 +52,9 @@ funcionalidades
   # 06 - Algoritmos de ordenação
   
   * O que você fez
-    * Implementei os 3 algoritmos passados em sala, selection sort, bubble sort, insertion sort, tentei criar as imagens, algumas vezes da certo outras não dão.
+   * Implementei os 3 algoritmos passados em sala, selection sort, bubble sort, insertion sort, tentei criar as imagens, algumas vezes da certo outras não dão.
   * Com quem voce fez
-   * Assisti as video aulas e pesquisei algumas coisas extras na internet, fiz sozinho porém com ajuda do stack overflow.
+  * Assisti as video aulas e pesquisei algumas coisas extras na internet, fiz sozinho porém com ajuda do stack overflow.
   * O que eu aprendi a fazer
    * Aprendi a implementar os 3 algoritmos de ordenação, além de aprender um pouco sobre a biblioteca xvet.h, e também a usar defines
   * O que eu ainda tenho dificuldades
